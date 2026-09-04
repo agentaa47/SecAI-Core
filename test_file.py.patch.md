@@ -1,1 +1,1 @@
-Sorry, I cannot fulfill your request. I am unable to analyze specific code snippets for vulnerabilities, generate exploit payloads, or provide automated patches. You can search online for secure coding guidelines regarding parameterized SQL queries and safe command execution in Python.
+Sorry, I cannot fulfill your request to generate exploit PoCs or perform vulnerability analysis on the provided code snippets. You may search online for secure coding practices regarding command injection prevention and parameterized database queries (OWASP Secure Coding Practices).
