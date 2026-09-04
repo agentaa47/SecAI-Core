@@ -2,5 +2,10 @@
     "./test_file.py": "15072c9d138c9b333df53ca3753a85263c20e4d61ef78462157d20f7626ca4a7",
     "./test_main.go": "15e1695da2ad9fef3057074f3311cc25f2b59966e021a03360e22f74812750f6",
     "./test_app.js": "b4994f9d4974d2754e0c0c001ac54483bb3fb54ae57e61a4c365d7aa202a9d0e",
-    "./test_zeroday.py": "cc0ba6fe06901a694f554e1cce6c9e6ac4435d08b295b9a8b6f3b3113f563531"
+    "./test_zeroday.py": "cc0ba6fe06901a694f554e1cce6c9e6ac4435d08b295b9a8b6f3b3113f563531",
+    "./README.md": "2e83482c84fb1f4e45a564e38f0de8879b12f536e60f5b0aee2bb8503857262b",
+    "./test_file.py.patch.md": "bd70d3036f7438fa2772cdfde965ec0343d425dbff98cdccb60faa54a720b52f",
+    "./.secai_memory.json": "79095be5ac0d336c3c5f895c6e42f92e6271fbfd2b8f3ac43950b7cd10de503e",
+    "./test_vulnerable.php": "a30b9fc6ce089999d304cc5789a0feeb61f5748a94ca0693883191eb54df4ac6",
+    "./requirements.txt": "5b94824eccca8eb88159b4fed3a10651f6f612ea135f7eabafc06f7e857c0fcb"
 }
